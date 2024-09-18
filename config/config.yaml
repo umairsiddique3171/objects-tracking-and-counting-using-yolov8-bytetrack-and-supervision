@@ -1,0 +1,9 @@
+MODEL : "yolov8x.pt"
+
+VIDEO_PATH : "data/videos/sample.mp4"
+TARGET_VIDEO_PATH : "results/videos/result.mp4"
+
+ANNOTATIONS:
+  THICKNESS: 4
+  TEXT_THICKNESS: 4
+  TEXT_SCALE: 2

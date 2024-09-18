@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# ignored due to bigger file size 
+results.mp4
+yolov8x.pt
+
 # Distribution / packaging
 .Python
 build/
